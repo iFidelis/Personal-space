@@ -206,7 +206,7 @@ a.pbtn:hover {
 }
 
 
-@media (max-width: 411px){
+@media (max-width: 768px){
   /* For mobile phones: */
   .w-60 {
      width: 100%;
