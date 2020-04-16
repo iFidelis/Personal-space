@@ -49,7 +49,7 @@ body {
   }
 
   .bg-head {
-      background-image: url("/img/hbg.jpg");
+      background-image: url("img/hbg.jpg");
       height: 100vh;
       background-size: cover;
       background-repeat: no-repeat;
